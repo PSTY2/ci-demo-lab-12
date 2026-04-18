@@ -66,3 +66,5 @@ git checkout -b feature/broken-code
 ### 5. Різниця між Continuous Integration і Continuous Deployment
 
 У цій лабораторній реалізовано Continuous Integration: код автоматично перевіряється після push або Pull Request. Continuous Deployment ще не реалізовано, бо сайт не розгортається автоматично на хостинг після успішного проходження перевірок.
+
+CD pipeline enabled
