@@ -1,0 +1,26 @@
+{
+  "name": "ci-demo-lab-12",
+  "version": "1.0.0",
+  "description": "CI pipeline lab",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint app.js",
+    "lint:html": "htmlhint index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PSTY2/ci-demo-lab-12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PSTY2/ci-demo-lab-12/issues"
+  },
+  "homepage": "https://github.com/PSTY2/ci-demo-lab-12#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.2.1",
+    "globals": "^17.5.0",
+    "htmlhint": "^1.9.2"
+  }
+}
